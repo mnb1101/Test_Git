@@ -1,3 +1,5 @@
 This is a first test for Git.
 
 change message by test git 2
+
+add new message for test git 2
